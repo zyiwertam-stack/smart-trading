@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.SmartTrading" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#4DD0E1</item>
+        <item name="android:navigationBarColor">#0B1118</item>
+        <item name="android:statusBarColor">#0B1118</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <string name="accessibility_service_label">SMART TRADING Interface Detection</string>
+    <string name="accessibility_service_description">Reads visible interface labels to identify a trading screen. It does not read passwords.</string>
+</resources>
